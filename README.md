@@ -8,6 +8,9 @@ chmod +x install.sh
 
 catatan:
 membutuhkan perizinan IP dan Password untuk dapat menggunakan script ini.
+
 validasi IP dan Password bisa hubungi via telegram:
+
 https://t.me/Xmod_vipp
+
 https://t.me/m44rifz
