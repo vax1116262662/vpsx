@@ -5,3 +5,8 @@ wget https://raw.githubusercontent.com/vax1116262662/vpsx/refs/heads/main/instal
 chmod +x install.sh
 
 ./install.sh
+
+catatan:
+membutuhkan perizinan IP dan Password untuk dapat menggunakan script ini.
+
+validasi IP dan Password bisa hubungi via telegram : t.me/@m44rifz
