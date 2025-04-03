@@ -9,4 +9,6 @@ chmod +x install.sh
 catatan:
 membutuhkan perizinan IP dan Password untuk dapat menggunakan script ini.
 
-validasi IP dan Password bisa hubungi via telegram: t.me/m44rifz
+validasi IP dan Password bisa hubungi via telegram:
+
+https://t.me/m44rifz
